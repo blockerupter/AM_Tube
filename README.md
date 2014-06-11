@@ -1,4 +1,4 @@
-AM_Tube_X24
+AM_Tube
 ===========
 
 Mechanical design for AM_BE200_x24 board
